@@ -14,7 +14,7 @@ You could use this method if you want to use some libraries according to your pr
 1. Clone the repository to your computer. <br />
    "git clone https://github.com/mehmetalikucuk/Altium_Designer_Library.git"
 1. Create or open your project in Altium Designer
-1. Right click your project and select "Add Existing to Project..." option
+1. Right click your project and select "Add Existing to Project..." option <br /> <img src="https://github.com/mehmetalikucuk/Altium_Designer_Library/raw/master/Installation/ADK_AddExisting.png" width=40% height=40%>
 1. Add ".PcbLib" and ".SchLib" files to your project from downloaded files, what components do you want
 
 ### The use ".IntLib" file
@@ -24,6 +24,6 @@ You could use this method if you want to add all libraries to Altium Designer. T
 1. Clone the repository to your computer. <br />
    "git clone https://github.com/mehmetalikucuk/Altium_Designer_Library.git"
 1. Click "Components" or "Libraries" tap
-1. Click "Operations" button, that is located to top right corner of window, and select "File-based Libraries Preferences..."
-1. Click "Install..." button and select all ".IntLib" files from downloaded files. IntLib files are in "Project Outputs for ..." folders
+1. Click "Operations" button, that is located to top right corner of window, and select "File-based Libraries Preferences..." <br /> <img src="https://github.com/mehmetalikucuk/Altium_Designer_Library/raw/master/Installation/ADK_FileBased.png" width=40% height=40%>
+1. Click "Install..." button and select all ".IntLib" files from downloaded files. IntLib files are in "Project Outputs for ..." folders <br /> <img src="https://github.com/mehmetalikucuk/Altium_Designer_Library/raw/master/Installation/ADK_InstallLib.png" width=50% height=50%>
 1. Create or open your project and use installed libraries
