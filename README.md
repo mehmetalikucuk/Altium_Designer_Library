@@ -25,5 +25,5 @@ You could use this method if you want to add all libraries to Altium Designer. T
    "git clone https://github.com/mehmetalikucuk/Altium_Designer_Library.git"
 1. Click "Components" or "Libraries" tap
 1. Click "Operations" button, that is located to top right corner of window, and select "File-based Libraries Preferences..." <br /> <img src="https://github.com/mehmetalikucuk/Altium_Designer_Library/raw/master/Installation/ADK_FileBased.png" width=40% height=40%>
-1. Click "Install..." button and select all ".IntLib" files from downloaded files. IntLib files are in "Project Outputs for ..." folders <br /> <img src="https://github.com/mehmetalikucuk/Altium_Designer_Library/raw/master/Installation/ADK_InstallLib.png" width=50% height=50%>
+1. Click "Install..." button and select all ".IntLib" files from downloaded files. IntLib files are in "Project Outputs for ..." folders <br /> <img src="https://github.com/mehmetalikucuk/Altium_Designer_Library/raw/master/Installation/ADK_InstallLib.png" width=60% height=60%>
 1. Create or open your project and use installed libraries
