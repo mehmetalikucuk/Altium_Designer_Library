@@ -1,0 +1,112 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Altium_Designer_Library_Db\Database.accdb;Persist Security Info=False
+AddMode=2
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access 2007
+LibraryDatabasePath=Database.accdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Coaxial Connectors (RF)
+[Table1]
+SchemaName=
+TableName=Ceramic Capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Coaxial Connectors (RF)
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=510|Library Ref0=90|Footprint Path0=511|Footprint Ref0=105|Description0=231|Manufacturer0=212|Series0=101|Package0=110|Connector Style0=122|Connector Type0=129|Contact Termination0=150|Shield Termination0=138|Impedance0=92|Mounting Type0=172|Mounting Feature0=136|Cable Group0=102|Fastening Type0=117|Frequency - Max0=128|Number of Ports0=127|Features0=77|Housing Color0=113|Ingress Protection0=136|Includes0=75|Body Material0=110|Body Finish0=95|Center Contact Plating0=164|Dielectric Material0=194|Operating Temperature0=169|Center Contact Material0=172|Voltage Rating0=115|Mating Cycles0=111|Insertion Loss0=110|Base Product Number0=159|Ozdisan Link0=688|Digikey Link0=929|Farnell TR Link0=742|Mouser Link0=1050
+[Table3]
+SchemaName=
+TableName=Memory Connectors - PC Card Sockets Kopyasý
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=702|Library Ref0=90|Footprint Path0=703|Footprint Ref0=142|Description0=266|Manufacturer0=108|Series0=60|Package0=110|Card Type0=169|Number of Positions0=150|Connector Type0=146|Insertion, Removal Method0=191|Ejector Side0=95|Mounting Type0=178|Features0=77|Height Above Board0=149|Mounting Feature0=136|Contact Finish0=112|Contact Finish Thickness0=174|Base Product Number0=159|Ozdisan Link0=711|Digikey Link0=766|Farnell TR Link0=617|Mouser Link0=962
+[Table4]
+SchemaName=
+TableName=Tantalum Capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Ceramic Capacitors.Kimlik|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Ceramic Capacitors.Part Number|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Ceramic Capacitors.Library Path|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Ceramic Capacitors.Library Ref|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Ceramic Capacitors.Footprint Path|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Ceramic Capacitors.Footprint Ref|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Ceramic Capacitors.Description|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Ceramic Capacitors.Capacitance|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Coaxial Connectors (RF).Kimlik|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Coaxial Connectors (RF).Part Number|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Coaxial Connectors (RF).Library Path|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Coaxial Connectors (RF).Library Ref|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Coaxial Connectors (RF).Footprint Path|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Coaxial Connectors (RF).Footprint Ref|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Coaxial Connectors (RF).Description|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Kimlik|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Part Number|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Library Path|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Library Ref|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Footprint Path|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Footprint Ref|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Description|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Tantalum Capacitors.Part Number|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Tantalum Capacitors.Library Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Tantalum Capacitors.Library Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Tantalum Capacitors.Footprint Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Tantalum Capacitors.Footprint Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Tantalum Capacitors.Description|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Tantalum Capacitors.Capacitance|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Tantalum Capacitors.Kimlik|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
