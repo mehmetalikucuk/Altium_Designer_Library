@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Altium_Designer_Library_Db\Database.accdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Altium_Designer_Library\Database.accdb;Persist Security Info=False
 AddMode=2
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Coaxial Connectors (RF)
+LastFocusedTable=Rectangular Connectors - Headers, Male Pins
 [Table1]
 SchemaName=
 TableName=Ceramic Capacitors
@@ -32,19 +32,22 @@ TableName=Coaxial Connectors (RF)
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=510|Library Ref0=90|Footprint Path0=511|Footprint Ref0=105|Description0=231|Manufacturer0=212|Series0=101|Package0=110|Connector Style0=122|Connector Type0=129|Contact Termination0=150|Shield Termination0=138|Impedance0=92|Mounting Type0=172|Mounting Feature0=136|Cable Group0=102|Fastening Type0=117|Frequency - Max0=128|Number of Ports0=127|Features0=77|Housing Color0=113|Ingress Protection0=136|Includes0=75|Body Material0=110|Body Finish0=95|Center Contact Plating0=164|Dielectric Material0=194|Operating Temperature0=169|Center Contact Material0=172|Voltage Rating0=115|Mating Cycles0=111|Insertion Loss0=110|Base Product Number0=159|Ozdisan Link0=688|Digikey Link0=929|Farnell TR Link0=742|Mouser Link0=1050
 [Table3]
 SchemaName=
 TableName=Memory Connectors - PC Card Sockets Kopyasý
 Enabled=True
 UserWhere=0
 UserWhereText=
+[Table4]
+SchemaName=
+TableName=Rectangular Connectors - Headers, Male Pins
+Enabled=True
+UserWhere=0
+UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=702|Library Ref0=90|Footprint Path0=703|Footprint Ref0=142|Description0=266|Manufacturer0=108|Series0=60|Package0=110|Card Type0=169|Number of Positions0=150|Connector Type0=146|Insertion, Removal Method0=191|Ejector Side0=95|Mounting Type0=178|Features0=77|Height Above Board0=149|Mounting Feature0=136|Contact Finish0=112|Contact Finish Thickness0=174|Base Product Number0=159|Ozdisan Link0=711|Digikey Link0=766|Farnell TR Link0=617|Mouser Link0=962
-[Table4]
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=774|Library Ref0=101|Footprint Path0=775|Footprint Ref0=161|Description0=260|Manufacturer0=108|Series0=112|Package0=110|Connector Type0=126|Contact Type0=106|Pitch - Mating0=118|Number of Positions0=150|Number of Rows0=127|Row Spacing - Mating0=160|Number of Positions Loaded0=199|Style0=158|Shrouding0=121|Mounting Type0=178|Termination0=98|Fastening Type0=117|Contact Length - Mating0=178|Contact Length - Post0=161|Overall Contact Length0=167|Insulation Height0=130|Contact Shape0=114|Contact Finish - Mating0=170|Contact Finish Thickness - Mating0=232|Contact Finish - Post0=153|Contact Material0=127|Insulation Material0=186|Features0=111|Operating Temperature0=169|Ingress Protection0=136|Material Flammability Rating0=199|Insulation Color0=122|Current Rating (Amps)0=162|Voltage Rating0=115|Mated Stacking Heights0=171|Contact Finish Thickness - Post0=215|Applications0=308|Base Product Number0=159|Ozdisan Link0=708|Digikey Link0=741|Farnell TR Link0=731|Mouser Link0=1060
+[Table5]
 SchemaName=
 TableName=Tantalum Capacitors
 Enabled=True
@@ -95,18 +98,32 @@ Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Footprint Ref|Tabl
 [FieldMap22]
 Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Description|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
-Options=FieldName=Tantalum Capacitors.Part Number|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Kimlik|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=Tantalum Capacitors.Library Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Part Number|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=Tantalum Capacitors.Library Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=Tantalum Capacitors.Footprint Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=Tantalum Capacitors.Footprint Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=Tantalum Capacitors.Description|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=Tantalum Capacitors.Capacitance|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Description|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
+Options=FieldName=Tantalum Capacitors.Part Number|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Tantalum Capacitors.Library Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Tantalum Capacitors.Library Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Tantalum Capacitors.Footprint Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Tantalum Capacitors.Footprint Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Tantalum Capacitors.Description|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Tantalum Capacitors.Capacitance|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
 Options=FieldName=Tantalum Capacitors.Kimlik|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
