@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=USB, DVI, HDMI Connectors
+LastFocusedTable=Oscillators
 [Table1]
 SchemaName=
 TableName=Ceramic Capacitors
@@ -34,37 +34,49 @@ UserWhere=0
 UserWhereText=
 [Table3]
 SchemaName=
-TableName=Memory Connectors - PC Card Sockets Kopyasý
+TableName=Crystals
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table4]
 SchemaName=
-TableName=Rectangular Connectors - Headers, Male Pins
+TableName=Memory Connectors - PC Card Sockets
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table5]
 SchemaName=
-TableName=Tantalum Capacitors
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table6]
-SchemaName=
-TableName=Terminal Blocks - Headers, Plugs and Sockets
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table7]
-SchemaName=
-TableName=USB, DVI, HDMI Connectors
+TableName=Oscillators
 Enabled=True
 UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Kimlik0=61|Part Number0=190|Library Path0=568|Library Ref0=190|Footprint Path0=569|Footprint Ref0=240|Description0=260|Manufacturer0=124|Series0=93|Package0=110|Connector Type0=122|Number of Contacts0=149|Gender0=74|Specifications0=106|Mounting Type0=269|Mounting Feature0=172|Termination0=98|Features0=204|Ingress Protection0=136|Operating Temperature0=169|Current Rating (Amps)0=162|Voltage - Rated0=121|Mating Cycles0=111|Shielding0=80|Contact Finish0=112|Shell/Shielding Material0=167|Material Flammability Rating0=199|Insulation Color0=122|Number of Ports0=127|Base Product Number0=159|Ozdisan Link0=809|Digikey Link0=751|Farnell TR Link0=652|Mouser Link0=797
+BrowserOrder_Visible=Kimlik0=61|Part Number0=148|Library Path0=381|Library Ref0=148|Footprint Path0=382|Description0=259|Frequency0=88|Footpritn Ref0=105|Manufacturer0=108|Series0=60|Package0=110|Base Resonator0=119|Type0=96|Function0=99|Output0=70|Voltage - Supply0=127|Frequency Stability0=140|Absolute Pull Range (APR)0=184|Operating Temperature0=169|Current - Supply (Max)0=165|Ratings0=70|Mounting Type0=119|Package / Case0=117|Size / Dimension0=260|Height - Seated (Max)0=159|Current - Supply (Disable) (Max)0=221|Ozdisan Link0=687|Digikey Link0=989|Farnell TR Link0=737|Mouser Link0=749|Footprint Ref0=105
+[Table6]
+SchemaName=
+TableName=Rectangular Connectors - Headers, Male Pins
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=Tantalum Capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=Terminal Blocks - Headers, Plugs and Sockets
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=USB, DVI, HDMI Connectors
+Enabled=True
+UserWhere=0
+UserWhereText=
 [FieldMap1]
 Options=FieldName=Ceramic Capacitors.Kimlik|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -96,72 +108,102 @@ Options=FieldName=Coaxial Connectors (RF).Footprint Ref|TableNameOnly=Coaxial Co
 [FieldMap15]
 Options=FieldName=Coaxial Connectors (RF).Description|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Kimlik|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Kimlik|TableNameOnly=Crystals|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Part Number|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Part Number|TableNameOnly=Crystals|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Library Path|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Library Path|TableNameOnly=Crystals|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Library Ref|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Library Ref|TableNameOnly=Crystals|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Footprint Path|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Footprint Path|TableNameOnly=Crystals|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Footprint Ref|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Footprint Ref|TableNameOnly=Crystals|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=Memory Connectors - PC Card Sockets Kopyasý.Description|TableNameOnly=Memory Connectors - PC Card Sockets Kopyasý|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Description|TableNameOnly=Crystals|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Kimlik|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Frequency|TableNameOnly=Crystals|FieldNameOnly=Frequency|FieldType=1|ParameterName=Frequency|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Part Number|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Part Number|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Library Path|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Library Ref|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Footprint Path|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Footprint Ref|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Description|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Description|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
-Options=FieldName=Tantalum Capacitors.Part Number|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillators.Kimlik|TableNameOnly=Oscillators|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap31]
-Options=FieldName=Tantalum Capacitors.Library Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillators.Part Number|TableNameOnly=Oscillators|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap32]
-Options=FieldName=Tantalum Capacitors.Library Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillators.Library Path|TableNameOnly=Oscillators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap33]
-Options=FieldName=Tantalum Capacitors.Footprint Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillators.Library Ref|TableNameOnly=Oscillators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap34]
-Options=FieldName=Tantalum Capacitors.Footprint Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillators.Footprint Path|TableNameOnly=Oscillators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap35]
-Options=FieldName=Tantalum Capacitors.Description|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillators.Description|TableNameOnly=Oscillators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap36]
-Options=FieldName=Tantalum Capacitors.Capacitance|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillators.Frequency|TableNameOnly=Oscillators|FieldNameOnly=Frequency|FieldType=1|ParameterName=Frequency|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap37]
-Options=FieldName=Tantalum Capacitors.Kimlik|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Oscillators.Footprint Ref|TableNameOnly=Oscillators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap38]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Kimlik|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Kimlik|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap39]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Part Number|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Part Number|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap40]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Library Path|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap41]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Library Ref|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap42]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Footprint Path|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap43]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Footprint Ref|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap44]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Description|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Description|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap45]
-Options=FieldName=USB, DVI, HDMI Connectors.Part Number|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Tantalum Capacitors.Part Number|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap46]
-Options=FieldName=USB, DVI, HDMI Connectors.Library Path|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Tantalum Capacitors.Library Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap47]
-Options=FieldName=USB, DVI, HDMI Connectors.Library Ref|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Tantalum Capacitors.Library Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap48]
-Options=FieldName=USB, DVI, HDMI Connectors.Footprint Path|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Tantalum Capacitors.Footprint Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap49]
-Options=FieldName=USB, DVI, HDMI Connectors.Footprint Ref|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Tantalum Capacitors.Footprint Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap50]
+Options=FieldName=Tantalum Capacitors.Description|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Tantalum Capacitors.Capacitance|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Tantalum Capacitors.Kimlik|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Kimlik|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Part Number|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Library Path|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Library Ref|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Footprint Path|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Footprint Ref|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Description|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=USB, DVI, HDMI Connectors.Part Number|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=USB, DVI, HDMI Connectors.Library Path|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=USB, DVI, HDMI Connectors.Library Ref|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=USB, DVI, HDMI Connectors.Footprint Path|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=USB, DVI, HDMI Connectors.Footprint Ref|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
 Options=FieldName=USB, DVI, HDMI Connectors.Description|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
