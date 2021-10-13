@@ -19,74 +19,116 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Interface - Controllers
+LastFocusedTable=USB, DVI, HDMI Connectors
 [Table1]
 SchemaName=
 TableName=Ceramic Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Library Path0=360|Library Ref0=144|Footprint Path0=361|Footprint Ref0=176|Description0=229|Capacitance0=98|Part Number0=144|Manufacturer0=181|Series0=60|Package0=110|Tolerance0=83|Voltage - Rated0=121|Temperature Coefficient0=171|Operating Temperature0=169|Features0=77|Ratings0=70|Applications0=111|Mounting Type0=145|Package / Case0=129|Size / Dimension0=260|Height - Seated (Max)0=159|Thickness (Max)0=121|Lead Spacing0=105|Lead Style0=87|Ozdisan Link0=698|Digikey Link0=1031|Farnell Link0=820|Mouser Link0=1274
 [Table2]
+SchemaName=
+TableName=Chip Resistor - Surface Mount
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=119|Library Path0=484|Library Ref0=119|Footprint Path0=485|Footprint Ref0=153|Description0=245|Manufacturer0=108|Series0=60|Package0=110|Resistance0=88|Tolerance0=83|Power (Watts)0=111|Composition0=103|Features0=111|Temperature Coefficient0=171|Operating Temperature0=169|Ratings0=70|Package / Case0=129|Supplier Device Package0=172|Size / Dimension0=260|Height - Seated (Max)0=159|Number of Terminations0=174|Failure Rate0=96|Ozdisan Link0=587|Digikey Link0=99|Farnell Link0=94|Mouser Link0=101
+[Table3]
 SchemaName=
 TableName=Coaxial Connectors (RF)
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table3]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=510|Library Ref0=94|Footprint Path0=511|Footprint Ref0=105|Description0=231|Manufacturer0=212|Series0=60|Package0=110|Connector Style0=122|Connector Type0=129|Contact Termination0=150|Shield Termination0=138|Impedance0=92|Mounting Type0=172|Mounting Feature0=136|Cable Group0=102|Fastening Type0=117|Frequency - Max0=128|Number of Ports0=127|Features0=77|Housing Color0=113|Ingress Protection0=136|Includes0=75|Body Material0=110|Body Finish0=95|Center Contact Plating0=164|Dielectric Material0=194|Operating Temperature0=169|Center Contact Material0=172|Voltage Rating0=115|Mating Cycles0=111|Insertion Loss0=110|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=929|Farnell Link0=742|Mouser Link0=1050
+[Table4]
 SchemaName=
 TableName=Crystals
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table4]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=165|Library Path0=351|Library Ref0=165|Footprint Path0=352|Footprint Ref0=143|Description0=212|Frequency0=88|Manufacturer0=108|Series0=60|Package0=110|Type0=85|Frequency Stability0=140|Frequency Tolerance0=150|Load Capacitance0=132|ESR (Equivalent Series Resistance)0=228|Operating Mode0=127|Operating Temperature0=169|Ratings0=70|Mounting Type0=119|Package / Case0=117|Size / Dimension0=270|Height - Seated (Max)0=159|Ozdisan Link0=695|Digikey Link0=994|Farnell Link0=739|Mouser Link0=1083
+[Table5]
 SchemaName=
 TableName=Data Acquisition - Analog to Digital Converters (ADC)
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table5]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=153|Library Path0=862|Library Ref0=153|Footprint Path0=863|Footprint Ref0=120|Description0=220|Kimlik0=61|Manufacturer0=121|Series0=60|Package0=110|Number of Bits0=117|Sampling Rate (Per Second)0=192|Number of Inputs0=134|Input Type0=91|Data Interface0=150|Configuration0=109|Ratio - S/H:ADC0=123|Number of A/D Converters0=190|Architecture0=99|Reference Type0=117|Voltage - Supply, Analog0=177|Voltage - Supply, Digital0=173|Features0=77|Operating Temperature0=169|Package / Case0=223|Supplier Device Package0=172|Mounting Type0=119|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=1010|Farnell Link0=94|Mouser Link0=826
+[Table6]
 SchemaName=
 TableName=Data Acquisition - Digital to Analog Converters (DAC)
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table6]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=862|Library Ref0=94|Footprint Path0=863|Footprint Ref0=192|Description0=199|Manufacturer0=128|Series0=63|Package0=75|Number of Bits0=117|Number of D/A Converters0=190|Settling Time0=104|Output Type0=140|Differential Output0=140|Data Interface0=111|Reference Type0=117|Voltage - Supply, Analog0=177|Voltage - Supply, Digital0=173|INL/DNL (LSB)0=112|Architecture0=102|Operating Temperature0=169|Package / Case0=188|Supplier Device Package0=172|Mounting Type0=119|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=546|Farnell Link0=94|Mouser Link0=728
+[Table7]
 SchemaName=
 TableName=Diodes - Rectifiers - Single
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table7]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=130|Library Path0=584|Library Ref0=130|Footprint Path0=585|Footprint Ref0=160|Description0=260|Kimlik0=61|Manufacturer0=123|Series0=60|Package0=110|Diode Type0=94|Voltage - DC Reverse (Vr) (Max)0=220|Current - Average Rectified (Io)0=215|Voltage - Forward (Vf) (Max) @ If0=228|Speed0=250|Reverse Recovery Time (trr)0=191|Current - Reverse Leakage @ Vr0=222|Capacitance @ Vr, F0=147|Mounting Type0=119|Package / Case0=117|Supplier Device Package0=172|Operating Temperature - Junction0=234|Base Product Number0=159|Ozdisan Link0=689|Digikey Link0=851|Farnell Link0=772|Mouser Link0=996
+[Table8]
 SchemaName=
 TableName=Embedded - Microcontrollers
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table8]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=142|Library Path0=562|Library Ref0=142|Footprint Path0=563|Footprint Ref0=168|Description0=238|Manufacturer0=123|Series0=120|Package0=140|Core Processor0=145|Core Size0=81|Speed0=84|Connectivity0=402|Peripherals0=365|Number of I/O0=115|Program Memory Size0=161|Program Memory Type0=167|EEPROM Size0=106|RAM Size0=82|Voltage - Supply (Vcc/Vdd)0=190|Data Converters0=157|Oscillator Type0=115|Operating Temperature0=169|Mounting Type0=119|Package / Case0=223|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=604|Digikey Link0=1011|Farnell Link0=775|Mouser Link0=1007
+[Table9]
 SchemaName=
 TableName=Evaluation Boards - Embedded - MCU, DSP
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table9]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Library Path0=841|Library Ref0=90|Footprint Path0=842|Footprint Ref0=135|Description0=238|Kimlik0=61|Manufacturer0=108|Series0=100|Package0=75|Board Type0=129|Type0=76|Core Processor0=117|Operating System0=135|Platform0=130|Utilized IC / Part0=125|Mounting Type0=119|Contents0=81|Interconnect System0=162|Suggested Programming Environment0=259|Ozdisan Link0=571|Digikey Link0=452|Farnell Link0=617|Mouser Link0=820
+[Table10]
 SchemaName=
 TableName=Feed Through Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table10]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=142|Library Path0=404|Library Ref0=142|Footprint Path0=405|Footprint Ref0=136|Description0=242|Capacitance0=98|Manufacturer0=123|Series0=117|Package0=110|Tolerance0=83|Voltage - Rated0=121|Current0=72|DC Resistance (DCR) (Max)0=188|Operating Temperature0=169|Insertion Loss0=110|Temperature Coefficient0=171|Ratings0=70|Mounting Type0=119|Package / Case0=192|Size / Dimension0=270|Height (Max)0=118|Thread Size0=94|Base Product Number0=159|Ozdisan Link0=512|Digikey Link0=955|Farnell Link0=735|Mouser Link0=1083
+[Table11]
 SchemaName=
 TableName=Ferrite Beads and Chips
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table11]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=132|Library Path0=386|Library Ref0=132|Footprint Path0=387|Footprint Ref0=125|Description0=227|Manufacturer0=123|Series0=115|Package0=110|Filter Type0=88|Number of Lines0=126|Impedance @ Frequency0=176|Current Rating (Max)0=153|DC Resistance (DCR) (Max)0=188|Ratings0=70|Operating Temperature0=169|Package / Case0=129|Mounting Type0=119|Height (Max)0=118|Size / Dimension0=270|Base Product Number0=159|Ozdisan Link0=534|Digikey Link0=963|Farnell Link0=727|Mouser Link0=1028
+[Table12]
 SchemaName=
 TableName=Fixed Inductors
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table12]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=138|Library Path0=394|Library Ref0=138|Footprint Path0=395|Footprint Ref0=134|Description0=269|Inductance0=92|Manufacturer0=175|Series0=85|Package0=110|Type0=80|Material - Core0=118|Tolerance0=83|Current Rating (Amps)0=162|Current - Saturation (Isat)0=183|Shielding0=80|DC Resistance (DCR)0=150|Q @ Freq0=84|Frequency - Self Resonant0=184|Ratings0=70|Operating Temperature0=169|Inductance Frequency - Test0=198|Mounting Type0=119|Package / Case0=129|Supplier Device Package0=172|Size / Dimension0=276|Height - Seated (Max)0=159|Ozdisan Link0=567|Digikey Link0=955|Farnell Link0=752|Mouser Link0=1080
+[Table13]
 SchemaName=
 TableName=Interface - Controllers
 Enabled=True
@@ -94,55 +136,223 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=99|Library Ref0=90|Footprint Path0=114|Footprint Ref0=105|Description0=94|Manufacturer0=108|Series0=60|Package0=75|Protocol0=76|Function0=78|Interface0=78|Standards0=86|Voltage - Supply0=127|Current - Supply0=127|Operating Temperature0=169|Package / Case0=117|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=99|Farnell TR Link0=113|Mouser Link0=101
-[Table13]
+BrowserOrder_Visible=Part Number0=107|Library Path0=474|Library Ref0=107|Footprint Path0=475|Footprint Ref0=137|Description0=231|Kimlik0=61|Manufacturer0=315|Series0=60|Package0=110|Protocol0=76|Function0=144|Interface0=78|Standards0=86|Voltage - Supply0=148|Current - Supply0=127|Operating Temperature0=169|Package / Case0=157|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=1067|Farnell Link0=94|Mouser Link0=1009
+[Table14]
 SchemaName=
 TableName=Interface - Drivers, Receivers, Transceivers
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table14]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=106|Library Path0=714|Library Ref0=106|Footprint Path0=715|Footprint Ref0=147|Description0=217|Kimlik0=61|Manufacturer0=121|Series0=60|Package0=75|Type0=78|Protocol0=76|Number of Drivers/Receivers0=199|Duplex0=67|Receiver Hysteresis0=141|Data Rate0=85|Voltage - Supply0=127|Operating Temperature0=169|Mounting Type0=119|Package / Case0=295|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=732|Digikey Link0=546|Farnell Link0=794|Mouser Link0=781
+[Table15]
+SchemaName=
+TableName=LED Indication - Discrete
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=110|Library Path0=460|Library Ref0=110|Footprint Path0=461|Footprint Ref0=142|Description0=158|Manufacturer0=108|Series0=60|Package0=110|Color0=58|Configuration0=109|Lens Color0=90|Lens Transparency0=138|Millicandela Rating0=139|Lens Style0=152|Lens Size0=126|Voltage - Forward (Vf) (Typ)0=195|Current - Test0=111|Viewing Angle0=112|Mounting Type0=119|Wavelength - Dominant0=173|Wavelength - Peak0=141|Features0=77|Package / Case0=129|Size / Dimension0=154|Height (Max)0=104|Base Product Number0=159|Ozdisan Link0=647|Digikey Link0=855|Farnell Link0=94|Mouser Link0=998
+[Table16]
+SchemaName=
+TableName=LED Lighting - Color
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=132|Library Path0=408|Library Ref0=132|Footprint Path0=409|Footprint Ref0=217|Description0=223|Manufacturer0=121|Series0=60|Package0=110|Color0=148|Wavelength0=266|Current - Test0=111|Voltage - Forward (Vf) (Typ)0=218|Lumens/Watt @ Current - Test0=281|Current - Max0=112|Luminous Flux @ Current/Temperature0=264|Temperature - Test0=142|Viewing Angle0=112|Mounting Type0=119|Package / Case0=117|Supplier Device Package0=172|Size / Dimension0=260|Height - Seated (Max)0=159|Thermal Resistance of Package0=211|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=579|Farnell Link0=749|Mouser Link0=1055
+[Table17]
+SchemaName=
+TableName=LED Lighting - White
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=241|Library Path0=414|Library Ref0=241|Footprint Path0=415|Footprint Ref0=143|Description0=256|Manufacturer0=108|Series0=110|Package0=110|Color0=81|CCT (K)0=206|Flux @ 85°C, Current - Test0=193|Flux @ 25°C, Current - Test0=193|Current - Test0=111|Voltage - Forward (Vf) (Typ)0=195|Lumens/Watt @ Current - Test0=215|CRI (Color Rendering Index)0=194|Current - Max0=112|Viewing Angle0=112|Mounting Type0=119|Package / Case0=202|Supplier Device Package0=172|Size / Dimension0=260|Height - Seated (Max)0=159|Thermal Resistance of Package0=211|Base Product Number0=159|Ozdisan Link0=776|Digikey Link0=1011|Farnell Link0=849|Mouser Link0=1299
+[Table18]
+SchemaName=
+TableName=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=144|Library Path0=948|Library Ref0=144|Footprint Path0=949|Footprint Ref0=105|Description0=237|Manufacturer0=121|Series0=60|Package0=110|Amplifier Type0=118|Number of Circuits0=140|Output Type0=103|Slew Rate0=83|-3db Bandwidth0=124|Current - Input Bias0=147|Voltage - Input Offset0=160|Current - Supply0=140|Current - Output / Channel0=194|Voltage - Supply, Single/Dual (±)0=225|Operating Temperature0=169|Mounting Type0=119|Package / Case0=291|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=590|Digikey Link0=1011|Farnell Link0=817|Mouser Link0=1050
+[Table19]
+SchemaName=
+TableName=Logic - Translators, Level Shifters
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=606|Library Ref0=94|Footprint Path0=607|Footprint Ref0=105|Description0=243|Manufacturer0=121|Series0=60|Package0=110|Translator Type0=119|Channel Type0=108|Number of Circuits0=140|Channels per Circuit0=148|Voltage - VCCA0=122|Voltage - VCCB0=121|Input Signal0=98|Output Signal0=110|Output Type0=152|Data Rate0=85|Operating Temperature0=169|Features0=152|Mounting Type0=119|Package / Case0=228|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=616|Digikey Link0=878|Farnell Link0=700|Mouser Link0=1014
+[Table20]
 SchemaName=
 TableName=Memory Connectors - PC Card Sockets
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table15]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Library Path0=702|Library Ref0=90|Footprint Path0=703|Footprint Ref0=142|Description0=266|Kimlik0=61|Manufacturer0=108|Series0=60|Package0=110|Card Type0=169|Number of Positions0=150|Connector Type0=146|Insertion, Removal Method0=191|Ejector Side0=95|Mounting Type0=178|Features0=77|Height Above Board0=149|Mounting Feature0=136|Contact Finish0=112|Contact Finish Thickness0=174|Base Product Number0=159|Ozdisan Link0=711|Digikey Link0=766|Farnell Link0=617|Mouser Link0=962
+[Table21]
+SchemaName=
+TableName=Motion Sensors - IMUs
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=475|Library Ref0=90|Footprint Path0=476|Footprint Ref0=123|Description0=245|Manufacturer0=108|Series0=60|Package0=110|Sensor Type0=297|Output Type0=103|Operating Temperature0=169|Package / Case0=208|Supplier Device Package0=172|Mounting Type0=119|Ozdisan Link0=472|Digikey Link0=513|Farnell Link0=732|Mouser Link0=884
+[Table22]
+SchemaName=
+TableName=Optical Sensors - Photodiodes
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=559|Library Ref0=103|Footprint Path0=560|Footprint Ref0=156|Description0=273|Manufacturer0=233|Series0=155|Package0=110|Wavelength0=98|Color - Enhanced0=131|Spectral Range0=132|Diode Type0=94|Responsivity @ nm0=142|Response Time0=116|Voltage - DC Reverse (Vr) (Max)0=220|Current - Dark (Typ)0=149|Active Area0=94|Viewing Angle0=112|Operating Temperature0=169|Mounting Type0=178|Package / Case0=193|Base Product Number0=159|Ozdisan Link0=357|Digikey Link0=967|Farnell Link0=824|Mouser Link0=1094
+[Table23]
 SchemaName=
 TableName=Oscillators
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table16]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=148|Library Path0=381|Library Ref0=148|Footprint Path0=382|Description0=259|Frequency0=88|Footprint Ref0=105|Manufacturer0=108|Series0=60|Package0=110|Base Resonator0=119|Type0=96|Function0=99|Output0=70|Voltage - Supply0=127|Frequency Stability0=140|Absolute Pull Range (APR)0=184|Operating Temperature0=169|Current - Supply (Max)0=165|Ratings0=70|Mounting Type0=119|Package / Case0=117|Size / Dimension0=260|Height - Seated (Max)0=159|Current - Supply (Disable) (Max)0=221|Ozdisan Link0=687|Digikey Link0=989|Farnell Link0=737|Mouser Link0=749
+[Table24]
+SchemaName=
+TableName=PMIC - Gate Drivers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=122|Library Path0=454|Library Ref0=122|Footprint Path0=455|Footprint Ref0=105|Description0=229|Manufacturer0=126|Series0=60|Package0=110|Driven Configuration0=153|Channel Type0=108|Number of Drivers0=138|Gate Type0=132|Voltage - Supply0=127|Logic Voltage - VIL, VIH0=172|Current - Peak Output (Source, Sink)0=249|Input Type0=159|Rise / Fall Time (Typ)0=149|Operating Temperature0=169|Mounting Type0=119|Package / Case0=206|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=945|Farnell Link0=759|Mouser Link0=1088
+[Table25]
+SchemaName=
+TableName=PMIC - Voltage Regulators - DC DC Switching Regulators
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=118|Library Path0=908|Library Ref0=118|Footprint Path0=909|Footprint Ref0=105|Description0=207|Manufacturer0=123|Series0=60|Package0=110|Function0=137|Output Configuration0=158|Topology0=82|Output Type0=103|Number of Outputs0=146|Voltage - Input (Min)0=155|Voltage - Input (Max)0=157|Voltage - Output (Min/Fixed)0=203|Voltage - Output (Max)0=169|Current - Output0=131|Frequency - Switching0=160|Synchronous Rectifier0=156|Operating Temperature0=169|Mounting Type0=119|Package / Case0=206|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=627|Digikey Link0=961|Farnell Link0=783|Mouser Link0=1080
+[Table26]
+SchemaName=
+TableName=PMIC - Voltage Regulators - Linear
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=158|Library Path0=636|Library Ref0=158|Footprint Path0=637|Footprint Ref0=112|Description0=242|Kimlik0=61|Manufacturer0=126|Series0=87|Package0=110|Output Configuration0=158|Output Type0=103|Number of Regulators0=160|Voltage - Input (Max)0=157|Voltage - Output (Min/Fixed)0=203|Voltage - Output (Max)0=169|Voltage Dropout (Max)0=166|Current - Output0=131|Current - Quiescent (Iq)0=171|Current - Supply (Max)0=165|PSRR0=217|Control Features0=127|Protection Features0=408|Operating Temperature0=169|Mounting Type0=119|Package / Case0=176|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=664|Digikey Link0=1041|Farnell Link0=847|Mouser Link0=1069
+[Table27]
+SchemaName=
+TableName=Pressure Sensors, Transducers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=133|Library Path0=555|Library Ref0=133|Footprint Path0=556|Footprint Ref0=153|Description0=214|Manufacturer0=259|Series0=60|Package0=110|Applications0=99|Pressure Type0=110|Operating Pressure0=242|Output Type0=103|Output0=70|Accuracy0=153|Voltage - Supply0=127|Port Size0=78|Port Style0=84|Features0=77|Termination Style0=131|Maximum Pressure0=142|Operating Temperature0=169|Package / Case0=117|Supplier Device Package0=172|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=1414|Farnell Link0=890|Mouser Link0=1138
+[Table28]
 SchemaName=
 TableName=Rectangular Connectors - Headers, Male Pins
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table17]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=774|Library Ref0=101|Footprint Path0=775|Footprint Ref0=161|Description0=260|Manufacturer0=108|Series0=112|Package0=110|Connector Type0=126|Contact Type0=106|Pitch - Mating0=118|Number of Positions0=150|Number of Rows0=127|Row Spacing - Mating0=160|Number of Positions Loaded0=199|Style0=158|Shrouding0=121|Mounting Type0=178|Termination0=98|Fastening Type0=117|Contact Length - Mating0=178|Contact Length - Post0=161|Overall Contact Length0=167|Insulation Height0=130|Contact Shape0=114|Contact Finish - Mating0=170|Contact Finish Thickness - Mating0=232|Contact Finish - Post0=153|Contact Material0=127|Insulation Material0=186|Features0=111|Operating Temperature0=169|Ingress Protection0=136|Material Flammability Rating0=199|Insulation Color0=122|Current Rating (Amps)0=162|Voltage Rating0=115|Mated Stacking Heights0=171|Contact Finish Thickness - Post0=215|Applications0=308|Base Product Number0=159|Ozdisan Link0=708|Digikey Link0=741|Farnell Link0=731|Mouser Link0=1060
+[Table29]
+SchemaName=
+TableName=Resistor Networks, Arrays
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=126|Library Path0=428|Library Ref0=126|Footprint Path0=429|Footprint Ref0=127|Description0=226|Manufacturer0=204|Series0=60|Package0=110|Circuit Type0=97|Resistance (Ohms)0=137|Tolerance0=83|Number of Resistors0=149|Resistor Matching Ratio0=170|Resistor-Ratio-Drift0=143|Number of Pins0=120|Power Per Element0=140|Temperature Coefficient0=171|Operating Temperature0=169|Applications0=156|Mounting Type0=119|Package / Case0=223|Supplier Device Package0=172|Size / Dimension0=260|Height - Seated (Max)0=159|Ozdisan Link0=550|Digikey Link0=99|Farnell Link0=94|Mouser Link0=101
+[Table30]
+SchemaName=
+TableName=Tactile Switches
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=106|Library Path0=302|Library Ref0=106|Footprint Path0=303|Footprint Ref0=160|Description0=243|Manufacturer0=113|Series0=69|Package0=110|Circuit0=66|Switch Function0=121|Contact Rating @ Voltage0=184|Actuator Type0=128|Mounting Type0=178|Actuator Height off PCB, Vertical0=224|Actuator Length, Right Angle0=203|Actuator Orientation0=152|Termination Style0=131|Outline0=126|Illumination0=110|Illumination Type, Color0=170|Illumination Voltage (Nominal)0=211|Operating Force0=124|Ingress Protection0=136|Features0=77|Operating Temperature0=169|Actuator Material0=186|Switch Travel0=104|Mechanical Life0=118|Ozdisan Link0=628|Digikey Link0=905|Farnell Link0=769|Mouser Link0=1070
+[Table31]
 SchemaName=
 TableName=Tantalum Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table18]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=152|Library Path0=376|Library Ref0=152|Footprint Path0=377|Footprint Ref0=130|Description0=217|Capacitance0=98|Kimlik0=61|Manufacturer0=108|Series0=60|Package0=110|Tolerance0=83|Voltage - Rated0=121|Type0=57|ESR (Equivalent Series Resistance)0=228|Operating Temperature0=169|Lifetime @ Temp0=128|Mounting Type0=119|Package / Case0=129|Size / Dimension0=260|Height - Seated (Max)0=159|Lead Spacing0=105|Manufacturer Size Code0=171|Ratings0=70|Features0=111|Failure Rate0=96|Base Product Number0=159|Ozdisan Link0=637|Digikey Link0=1012|Farnell Link0=670|Mouser Link0=1011
+[Table32]
 SchemaName=
 TableName=Terminal Blocks - Headers, Plugs and Sockets
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table19]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=772|Library Ref0=90|Footprint Path0=773|Footprint Ref0=130|Description0=266|Manufacturer0=110|Series0=133|Package0=75|Type0=235|Number of Positions0=150|Positions Per Level0=139|Number of Levels0=132|Pitch0=113|Header Orientation0=143|Plug Wire Entry0=120|Termination Style0=131|Mounting Type0=119|Current - IEC0=106|Wire Gauge or Range - AWG0=202|Wire Gauge or Range - mm²0=199|Color0=58|Operating Temperature0=169|Contact Mating Finish0=160|Features0=77|Material Flammability Rating0=199|Ingress Protection0=136|Screw Size0=87|Torque - Screw0=117|Wire Strip Length0=132|Contact Material0=127|Housing Material0=145|Contact Tail Length0=144|Insulation Height0=130|Voltage - IEC0=106|Current - UL0=103|Voltage - UL0=103|Base Product Number0=159|Ozdisan Link0=337|Digikey Link0=746|Farnell Link0=691|Mouser Link0=902
+[Table33]
+SchemaName=
+TableName=Test Points
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=337|Library Ref0=90|Footprint Path0=338|Footprint Ref0=113|Description0=209|Manufacturer0=134|Series0=60|Package0=75|Type0=154|Mounting Type0=205|Color0=58|Size / Dimension0=267|Height0=66|Plating0=67|Material - Insulation0=149|Material - Body0=120|Ozdisan Link0=103|Digikey Link0=505|Farnell Link0=586|Mouser Link0=830
+[Table34]
+SchemaName=
+TableName=Through Hole Resistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Kimlik0=61|Part Number0=104|Library Path0=400|Library Ref0=90|Footprint Path0=401|Footprint Ref0=121|Description0=192|Manufacturer0=158|Series0=60|Package0=110|Resistance0=88|Tolerance0=83|Power (Watts)0=111|Composition0=103|Features0=206|Temperature Coefficient0=171|Operating Temperature0=169|Package / Case0=117|Supplier Device Package0=172|Size / Dimension0=267|Height - Seated (Max)0=159|Number of Terminations0=174|Failure Rate0=96|Ozdisan Link0=499|Digikey Link0=574|Farnell Link0=94|Mouser Link0=101
+[Table35]
 SchemaName=
 TableName=Transistors - FETs, MOSFETs - Single
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table20]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=165|Library Path0=708|Library Ref0=165|Footprint Path0=709|Footprint Ref0=176|Description0=256|Kimlik0=61|Manufacturer0=143|Series0=79|Package0=110|FET Type0=79|Technology0=148|Drain to Source Voltage (Vdss)0=212|Current - Continuous Drain (Id) @ 25°C0=269|Drive Voltage (Max Rds On, Min Rds On)0=275|Rds On (Max) @ Id, Vgs0=171|Vgs(th) (Max) @ Id0=140|Gate Charge (Qg) (Max) @ Vgs0=215|Vgs (Max)0=86|Input Capacitance (Ciss) (Max) @ Vds0=253|FET Feature0=96|Power Dissipation (Max)0=172|Operating Temperature0=169|Mounting Type0=119|Supplier Device Package0=172|Package / Case0=117|Base Product Number0=159|Ozdisan Link0=103|Digikey Link0=635|Farnell Link0=800|Mouser Link0=851
+[Table36]
+SchemaName=
+TableName=Trimmer Potentiometers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=121|Library Path0=568|Library Ref0=121|Footprint Path0=569|Footprint Ref0=115|Description0=257|Kimlik0=61|Manufacturer0=108|Series0=159|Package0=110|Resistance0=88|Power (Watts)0=111|Tolerance0=83|Temperature Coefficient0=171|Number of Turns0=129|Adjustment Type0=129|Resistive Material0=131|Mounting Type0=119|Termination Style0=131|Size / Dimension0=490|Base Product Number0=159|Ozdisan Link0=408|Digikey Link0=525|Farnell Link0=632|Mouser Link0=685
+[Table37]
 SchemaName=
 TableName=USB, DVI, HDMI Connectors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=190|Library Path0=568|Library Ref0=190|Footprint Path0=569|Footprint Ref0=240|Description0=260|Kimlik0=61|Manufacturer0=124|Series0=93|Package0=110|Connector Type0=122|Number of Contacts0=149|Gender0=74|Specifications0=106|Mounting Type0=269|Mounting Feature0=172|Termination0=98|Features0=204|Ingress Protection0=136|Operating Temperature0=169|Current Rating (Amps)0=162|Voltage - Rated0=121|Mating Cycles0=111|Shielding0=80|Contact Finish0=112|Shell/Shielding Material0=167|Material Flammability Rating0=199|Insulation Color0=122|Number of Ports0=127|Base Product Number0=159|Ozdisan Link0=809|Digikey Link0=751|Farnell Link0=652|Mouser Link0=797
 [FieldMap1]
 Options=FieldName=Ceramic Capacitors.Kimlik|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -158,276 +368,518 @@ Options=FieldName=Ceramic Capacitors.Description|TableNameOnly=Ceramic Capacitor
 [FieldMap7]
 Options=FieldName=Ceramic Capacitors.Capacitance|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=Ceramic Capacitors.Ratings|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Ratings|FieldType=0|ParameterName=Ratings|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ceramic Capacitors.Part Number|TableNameOnly=Ceramic Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=Coaxial Connectors (RF).Kimlik|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Chip Resistor - Surface Mount.Kimlik|TableNameOnly=Chip Resistor - Surface Mount|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=Coaxial Connectors (RF).Part Number|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Chip Resistor - Surface Mount.Part Number|TableNameOnly=Chip Resistor - Surface Mount|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=Coaxial Connectors (RF).Library Path|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Chip Resistor - Surface Mount.Library Path|TableNameOnly=Chip Resistor - Surface Mount|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=Coaxial Connectors (RF).Library Ref|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Chip Resistor - Surface Mount.Library Ref|TableNameOnly=Chip Resistor - Surface Mount|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=Coaxial Connectors (RF).Footprint Path|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Chip Resistor - Surface Mount.Footprint Path|TableNameOnly=Chip Resistor - Surface Mount|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=Coaxial Connectors (RF).Footprint Ref|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Chip Resistor - Surface Mount.Footprint Ref|TableNameOnly=Chip Resistor - Surface Mount|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=Coaxial Connectors (RF).Description|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Chip Resistor - Surface Mount.Description|TableNameOnly=Chip Resistor - Surface Mount|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=Crystals.Kimlik|TableNameOnly=Crystals|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Coaxial Connectors (RF).Kimlik|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=Crystals.Part Number|TableNameOnly=Crystals|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Coaxial Connectors (RF).Part Number|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=Crystals.Library Path|TableNameOnly=Crystals|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Coaxial Connectors (RF).Library Path|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Crystals.Library Ref|TableNameOnly=Crystals|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Coaxial Connectors (RF).Library Ref|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=Crystals.Footprint Path|TableNameOnly=Crystals|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Coaxial Connectors (RF).Footprint Path|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=Crystals.Footprint Ref|TableNameOnly=Crystals|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Coaxial Connectors (RF).Footprint Ref|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=Crystals.Description|TableNameOnly=Crystals|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Coaxial Connectors (RF).Description|TableNameOnly=Coaxial Connectors (RF)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
-Options=FieldName=Crystals.Frequency|TableNameOnly=Crystals|FieldNameOnly=Frequency|FieldType=1|ParameterName=Frequency|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Kimlik|TableNameOnly=Crystals|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Part Number|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Part Number|TableNameOnly=Crystals|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Library Path|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Library Path|TableNameOnly=Crystals|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Library Ref|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Library Ref|TableNameOnly=Crystals|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Footprint Path|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Footprint Path|TableNameOnly=Crystals|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Footprint Ref|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Footprint Ref|TableNameOnly=Crystals|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Description|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Description|TableNameOnly=Crystals|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
-Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Kimlik|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Crystals.Frequency|TableNameOnly=Crystals|FieldNameOnly=Frequency|FieldType=1|ParameterName=Frequency|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap31]
-Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Kimlik|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Part Number|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap32]
-Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Part Number|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Library Path|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap33]
-Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Library Path|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Library Ref|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap34]
-Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Library Ref|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Footprint Path|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap35]
-Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Footprint Path|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Footprint Ref|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap36]
-Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Footprint Ref|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Description|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap37]
-Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Description|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Analog to Digital Converters (ADC).Kimlik|TableNameOnly=Data Acquisition - Analog to Digital Converters (ADC)|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap38]
-Options=FieldName=Diodes - Rectifiers - Single.Part Number|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Kimlik|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap39]
-Options=FieldName=Diodes - Rectifiers - Single.Library Path|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Part Number|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap40]
-Options=FieldName=Diodes - Rectifiers - Single.Library Ref|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Library Path|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap41]
-Options=FieldName=Diodes - Rectifiers - Single.Footprint Path|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Library Ref|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap42]
-Options=FieldName=Diodes - Rectifiers - Single.Footprint Ref|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Footprint Path|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap43]
-Options=FieldName=Diodes - Rectifiers - Single.Description|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Footprint Ref|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap44]
-Options=FieldName=Diodes - Rectifiers - Single.Kimlik|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Data Acquisition - Digital to Analog Converters (DAC).Description|TableNameOnly=Data Acquisition - Digital to Analog Converters (DAC)|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap45]
-Options=FieldName=Embedded - Microcontrollers.Kimlik|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diodes - Rectifiers - Single.Part Number|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap46]
-Options=FieldName=Embedded - Microcontrollers.Part Number|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diodes - Rectifiers - Single.Library Path|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap47]
-Options=FieldName=Embedded - Microcontrollers.Library Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diodes - Rectifiers - Single.Library Ref|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap48]
-Options=FieldName=Embedded - Microcontrollers.Library Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diodes - Rectifiers - Single.Footprint Path|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap49]
-Options=FieldName=Embedded - Microcontrollers.Footprint Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diodes - Rectifiers - Single.Footprint Ref|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap50]
-Options=FieldName=Embedded - Microcontrollers.Footprint Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diodes - Rectifiers - Single.Description|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap51]
-Options=FieldName=Embedded - Microcontrollers.Description|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diodes - Rectifiers - Single.Kimlik|TableNameOnly=Diodes - Rectifiers - Single|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap52]
-Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Part Number|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Embedded - Microcontrollers.Kimlik|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap53]
-Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Library Path|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Embedded - Microcontrollers.Part Number|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap54]
-Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Library Ref|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Embedded - Microcontrollers.Library Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap55]
-Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Footprint Path|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Embedded - Microcontrollers.Library Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap56]
-Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Footprint Ref|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Embedded - Microcontrollers.Footprint Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap57]
-Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Description|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Embedded - Microcontrollers.Footprint Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap58]
-Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Kimlik|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Embedded - Microcontrollers.Description|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap59]
-Options=FieldName=Feed Through Capacitors.Kimlik|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Part Number|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap60]
-Options=FieldName=Feed Through Capacitors.Part Number|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Library Path|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap61]
-Options=FieldName=Feed Through Capacitors.Library Path|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Library Ref|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap62]
-Options=FieldName=Feed Through Capacitors.Library Ref|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Footprint Path|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap63]
-Options=FieldName=Feed Through Capacitors.Footprint Path|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Footprint Ref|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap64]
-Options=FieldName=Feed Through Capacitors.Footprint Ref|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Description|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap65]
-Options=FieldName=Feed Through Capacitors.Description|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Evaluation Boards - Embedded - MCU, DSP.Kimlik|TableNameOnly=Evaluation Boards - Embedded - MCU, DSP|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap66]
-Options=FieldName=Feed Through Capacitors.Capacitance|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Feed Through Capacitors.Kimlik|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap67]
-Options=FieldName=Ferrite Beads and Chips.Kimlik|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Feed Through Capacitors.Part Number|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap68]
-Options=FieldName=Ferrite Beads and Chips.Part Number|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Feed Through Capacitors.Library Path|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap69]
-Options=FieldName=Ferrite Beads and Chips.Library Path|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Feed Through Capacitors.Library Ref|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap70]
-Options=FieldName=Ferrite Beads and Chips.Library Ref|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Feed Through Capacitors.Footprint Path|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap71]
-Options=FieldName=Ferrite Beads and Chips.Footprint Path|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Feed Through Capacitors.Footprint Ref|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap72]
-Options=FieldName=Ferrite Beads and Chips.Footprint Ref|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Feed Through Capacitors.Description|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap73]
-Options=FieldName=Ferrite Beads and Chips.Description|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Feed Through Capacitors.Capacitance|TableNameOnly=Feed Through Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap74]
-Options=FieldName=Fixed Inductors.Kimlik|TableNameOnly=Fixed Inductors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ferrite Beads and Chips.Kimlik|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap75]
-Options=FieldName=Fixed Inductors.Part Number|TableNameOnly=Fixed Inductors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ferrite Beads and Chips.Part Number|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap76]
-Options=FieldName=Fixed Inductors.Library Path|TableNameOnly=Fixed Inductors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ferrite Beads and Chips.Library Path|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap77]
-Options=FieldName=Fixed Inductors.Library Ref|TableNameOnly=Fixed Inductors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ferrite Beads and Chips.Library Ref|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap78]
-Options=FieldName=Fixed Inductors.Footprint Path|TableNameOnly=Fixed Inductors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ferrite Beads and Chips.Footprint Path|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap79]
-Options=FieldName=Fixed Inductors.Footprint Ref|TableNameOnly=Fixed Inductors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ferrite Beads and Chips.Footprint Ref|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap80]
-Options=FieldName=Fixed Inductors.Description|TableNameOnly=Fixed Inductors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ferrite Beads and Chips.Description|TableNameOnly=Ferrite Beads and Chips|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap81]
-Options=FieldName=Fixed Inductors.Inductance|TableNameOnly=Fixed Inductors|FieldNameOnly=Inductance|FieldType=1|ParameterName=Inductance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Fixed Inductors.Kimlik|TableNameOnly=Fixed Inductors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap82]
-Options=FieldName=Interface - Controllers.Part Number|TableNameOnly=Interface - Controllers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Fixed Inductors.Part Number|TableNameOnly=Fixed Inductors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap83]
-Options=FieldName=Interface - Controllers.Library Path|TableNameOnly=Interface - Controllers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Fixed Inductors.Library Path|TableNameOnly=Fixed Inductors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap84]
-Options=FieldName=Interface - Controllers.Library Ref|TableNameOnly=Interface - Controllers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Fixed Inductors.Library Ref|TableNameOnly=Fixed Inductors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap85]
-Options=FieldName=Interface - Controllers.Footprint Path|TableNameOnly=Interface - Controllers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Fixed Inductors.Footprint Path|TableNameOnly=Fixed Inductors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap86]
-Options=FieldName=Interface - Controllers.Footprint Ref|TableNameOnly=Interface - Controllers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Fixed Inductors.Footprint Ref|TableNameOnly=Fixed Inductors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap87]
-Options=FieldName=Interface - Controllers.Description|TableNameOnly=Interface - Controllers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Fixed Inductors.Description|TableNameOnly=Fixed Inductors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap88]
-Options=FieldName=Interface - Drivers, Receivers, Transceivers.Part Number|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Fixed Inductors.Inductance|TableNameOnly=Fixed Inductors|FieldNameOnly=Inductance|FieldType=1|ParameterName=Inductance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap89]
-Options=FieldName=Interface - Drivers, Receivers, Transceivers.Library Path|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Controllers.Part Number|TableNameOnly=Interface - Controllers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap90]
-Options=FieldName=Interface - Drivers, Receivers, Transceivers.Library Ref|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Controllers.Library Path|TableNameOnly=Interface - Controllers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap91]
-Options=FieldName=Interface - Drivers, Receivers, Transceivers.Footprint Path|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Controllers.Library Ref|TableNameOnly=Interface - Controllers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap92]
-Options=FieldName=Interface - Drivers, Receivers, Transceivers.Footprint Ref|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Controllers.Footprint Path|TableNameOnly=Interface - Controllers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap93]
-Options=FieldName=Interface - Drivers, Receivers, Transceivers.Description|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Controllers.Footprint Ref|TableNameOnly=Interface - Controllers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap94]
-Options=FieldName=Memory Connectors - PC Card Sockets.Part Number|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Controllers.Description|TableNameOnly=Interface - Controllers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap95]
-Options=FieldName=Memory Connectors - PC Card Sockets.Library Path|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Controllers.Kimlik|TableNameOnly=Interface - Controllers|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap96]
-Options=FieldName=Memory Connectors - PC Card Sockets.Library Ref|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Drivers, Receivers, Transceivers.Part Number|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap97]
-Options=FieldName=Memory Connectors - PC Card Sockets.Footprint Path|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Drivers, Receivers, Transceivers.Library Path|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap98]
-Options=FieldName=Memory Connectors - PC Card Sockets.Footprint Ref|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Drivers, Receivers, Transceivers.Library Ref|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap99]
-Options=FieldName=Memory Connectors - PC Card Sockets.Description|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Drivers, Receivers, Transceivers.Footprint Path|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap100]
-Options=FieldName=Memory Connectors - PC Card Sockets.Kimlik|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Drivers, Receivers, Transceivers.Footprint Ref|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap101]
-Options=FieldName=Oscillators.Kimlik|TableNameOnly=Oscillators|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Drivers, Receivers, Transceivers.Description|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap102]
-Options=FieldName=Oscillators.Part Number|TableNameOnly=Oscillators|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Interface - Drivers, Receivers, Transceivers.Kimlik|TableNameOnly=Interface - Drivers, Receivers, Transceivers|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap103]
-Options=FieldName=Oscillators.Library Path|TableNameOnly=Oscillators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Indication - Discrete.Kimlik|TableNameOnly=LED Indication - Discrete|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap104]
-Options=FieldName=Oscillators.Library Ref|TableNameOnly=Oscillators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Indication - Discrete.Part Number|TableNameOnly=LED Indication - Discrete|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap105]
-Options=FieldName=Oscillators.Footprint Path|TableNameOnly=Oscillators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Indication - Discrete.Library Path|TableNameOnly=LED Indication - Discrete|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap106]
-Options=FieldName=Oscillators.Description|TableNameOnly=Oscillators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Indication - Discrete.Library Ref|TableNameOnly=LED Indication - Discrete|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap107]
-Options=FieldName=Oscillators.Frequency|TableNameOnly=Oscillators|FieldNameOnly=Frequency|FieldType=1|ParameterName=Frequency|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Indication - Discrete.Footprint Path|TableNameOnly=LED Indication - Discrete|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap108]
-Options=FieldName=Oscillators.Footprint Ref|TableNameOnly=Oscillators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Indication - Discrete.Footprint Ref|TableNameOnly=LED Indication - Discrete|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap109]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Kimlik|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Indication - Discrete.Description|TableNameOnly=LED Indication - Discrete|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap110]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Part Number|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - Color.Kimlik|TableNameOnly=LED Lighting - Color|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap111]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - Color.Part Number|TableNameOnly=LED Lighting - Color|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap112]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - Color.Library Path|TableNameOnly=LED Lighting - Color|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap113]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - Color.Library Ref|TableNameOnly=LED Lighting - Color|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap114]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - Color.Footprint Path|TableNameOnly=LED Lighting - Color|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap115]
-Options=FieldName=Rectangular Connectors - Headers, Male Pins.Description|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - Color.Footprint Ref|TableNameOnly=LED Lighting - Color|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap116]
-Options=FieldName=Tantalum Capacitors.Part Number|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - Color.Description|TableNameOnly=LED Lighting - Color|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap117]
-Options=FieldName=Tantalum Capacitors.Library Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - White.Kimlik|TableNameOnly=LED Lighting - White|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap118]
-Options=FieldName=Tantalum Capacitors.Library Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - White.Part Number|TableNameOnly=LED Lighting - White|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap119]
-Options=FieldName=Tantalum Capacitors.Footprint Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - White.Library Path|TableNameOnly=LED Lighting - White|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap120]
-Options=FieldName=Tantalum Capacitors.Footprint Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - White.Library Ref|TableNameOnly=LED Lighting - White|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap121]
-Options=FieldName=Tantalum Capacitors.Description|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - White.Footprint Path|TableNameOnly=LED Lighting - White|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap122]
-Options=FieldName=Tantalum Capacitors.Capacitance|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - White.Footprint Ref|TableNameOnly=LED Lighting - White|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap123]
-Options=FieldName=Tantalum Capacitors.Kimlik|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=LED Lighting - White.Description|TableNameOnly=LED Lighting - White|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap124]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Kimlik|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps.Kimlik|TableNameOnly=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap125]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Part Number|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps.Part Number|TableNameOnly=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap126]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Library Path|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps.Library Path|TableNameOnly=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap127]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Library Ref|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps.Library Ref|TableNameOnly=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap128]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Footprint Path|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps.Footprint Path|TableNameOnly=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap129]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Footprint Ref|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps.Footprint Ref|TableNameOnly=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap130]
-Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Description|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps.Description|TableNameOnly=Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap131]
-Options=FieldName=Transistors - FETs, MOSFETs - Single.Part Number|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Logic - Translators, Level Shifters.Kimlik|TableNameOnly=Logic - Translators, Level Shifters|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
 [FieldMap132]
-Options=FieldName=Transistors - FETs, MOSFETs - Single.Library Path|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Logic - Translators, Level Shifters.Part Number|TableNameOnly=Logic - Translators, Level Shifters|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap133]
-Options=FieldName=Transistors - FETs, MOSFETs - Single.Library Ref|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Logic - Translators, Level Shifters.Library Path|TableNameOnly=Logic - Translators, Level Shifters|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap134]
-Options=FieldName=Transistors - FETs, MOSFETs - Single.Footprint Path|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Logic - Translators, Level Shifters.Library Ref|TableNameOnly=Logic - Translators, Level Shifters|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap135]
-Options=FieldName=Transistors - FETs, MOSFETs - Single.Footprint Ref|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Logic - Translators, Level Shifters.Footprint Path|TableNameOnly=Logic - Translators, Level Shifters|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap136]
-Options=FieldName=Transistors - FETs, MOSFETs - Single.Description|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Logic - Translators, Level Shifters.Footprint Ref|TableNameOnly=Logic - Translators, Level Shifters|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap137]
-Options=FieldName=Transistors - FETs, MOSFETs - Single.Kimlik|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+Options=FieldName=Logic - Translators, Level Shifters.Description|TableNameOnly=Logic - Translators, Level Shifters|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap138]
-Options=FieldName=USB, DVI, HDMI Connectors.Part Number|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Part Number|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap139]
-Options=FieldName=USB, DVI, HDMI Connectors.Library Path|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Library Path|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap140]
-Options=FieldName=USB, DVI, HDMI Connectors.Library Ref|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Library Ref|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap141]
-Options=FieldName=USB, DVI, HDMI Connectors.Footprint Path|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Footprint Path|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap142]
-Options=FieldName=USB, DVI, HDMI Connectors.Footprint Ref|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Footprint Ref|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap143]
-Options=FieldName=USB, DVI, HDMI Connectors.Description|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Memory Connectors - PC Card Sockets.Description|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap144]
+Options=FieldName=Memory Connectors - PC Card Sockets.Kimlik|TableNameOnly=Memory Connectors - PC Card Sockets|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap145]
+Options=FieldName=Motion Sensors - IMUs.Kimlik|TableNameOnly=Motion Sensors - IMUs|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap146]
+Options=FieldName=Motion Sensors - IMUs.Part Number|TableNameOnly=Motion Sensors - IMUs|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap147]
+Options=FieldName=Motion Sensors - IMUs.Library Path|TableNameOnly=Motion Sensors - IMUs|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap148]
+Options=FieldName=Motion Sensors - IMUs.Library Ref|TableNameOnly=Motion Sensors - IMUs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap149]
+Options=FieldName=Motion Sensors - IMUs.Footprint Path|TableNameOnly=Motion Sensors - IMUs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap150]
+Options=FieldName=Motion Sensors - IMUs.Footprint Ref|TableNameOnly=Motion Sensors - IMUs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap151]
+Options=FieldName=Motion Sensors - IMUs.Description|TableNameOnly=Motion Sensors - IMUs|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap152]
+Options=FieldName=Optical Sensors - Photodiodes.Kimlik|TableNameOnly=Optical Sensors - Photodiodes|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap153]
+Options=FieldName=Optical Sensors - Photodiodes.Part Number|TableNameOnly=Optical Sensors - Photodiodes|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap154]
+Options=FieldName=Optical Sensors - Photodiodes.Library Path|TableNameOnly=Optical Sensors - Photodiodes|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap155]
+Options=FieldName=Optical Sensors - Photodiodes.Library Ref|TableNameOnly=Optical Sensors - Photodiodes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap156]
+Options=FieldName=Optical Sensors - Photodiodes.Footprint Path|TableNameOnly=Optical Sensors - Photodiodes|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap157]
+Options=FieldName=Optical Sensors - Photodiodes.Footprint Ref|TableNameOnly=Optical Sensors - Photodiodes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap158]
+Options=FieldName=Optical Sensors - Photodiodes.Description|TableNameOnly=Optical Sensors - Photodiodes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap159]
+Options=FieldName=Oscillators.Kimlik|TableNameOnly=Oscillators|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap160]
+Options=FieldName=Oscillators.Part Number|TableNameOnly=Oscillators|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap161]
+Options=FieldName=Oscillators.Library Path|TableNameOnly=Oscillators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap162]
+Options=FieldName=Oscillators.Library Ref|TableNameOnly=Oscillators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap163]
+Options=FieldName=Oscillators.Footprint Path|TableNameOnly=Oscillators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap164]
+Options=FieldName=Oscillators.Description|TableNameOnly=Oscillators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap165]
+Options=FieldName=Oscillators.Frequency|TableNameOnly=Oscillators|FieldNameOnly=Frequency|FieldType=1|ParameterName=Frequency|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap166]
+Options=FieldName=Oscillators.Footprint Ref|TableNameOnly=Oscillators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap167]
+Options=FieldName=PMIC - Gate Drivers.Kimlik|TableNameOnly=PMIC - Gate Drivers|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap168]
+Options=FieldName=PMIC - Gate Drivers.Part Number|TableNameOnly=PMIC - Gate Drivers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap169]
+Options=FieldName=PMIC - Gate Drivers.Library Path|TableNameOnly=PMIC - Gate Drivers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap170]
+Options=FieldName=PMIC - Gate Drivers.Library Ref|TableNameOnly=PMIC - Gate Drivers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap171]
+Options=FieldName=PMIC - Gate Drivers.Footprint Path|TableNameOnly=PMIC - Gate Drivers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap172]
+Options=FieldName=PMIC - Gate Drivers.Footprint Ref|TableNameOnly=PMIC - Gate Drivers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap173]
+Options=FieldName=PMIC - Gate Drivers.Description|TableNameOnly=PMIC - Gate Drivers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap174]
+Options=FieldName=PMIC - Voltage Regulators - DC DC Switching Regulators.Kimlik|TableNameOnly=PMIC - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap175]
+Options=FieldName=PMIC - Voltage Regulators - DC DC Switching Regulators.Part Number|TableNameOnly=PMIC - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap176]
+Options=FieldName=PMIC - Voltage Regulators - DC DC Switching Regulators.Library Path|TableNameOnly=PMIC - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap177]
+Options=FieldName=PMIC - Voltage Regulators - DC DC Switching Regulators.Library Ref|TableNameOnly=PMIC - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap178]
+Options=FieldName=PMIC - Voltage Regulators - DC DC Switching Regulators.Footprint Path|TableNameOnly=PMIC - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap179]
+Options=FieldName=PMIC - Voltage Regulators - DC DC Switching Regulators.Footprint Ref|TableNameOnly=PMIC - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap180]
+Options=FieldName=PMIC - Voltage Regulators - DC DC Switching Regulators.Description|TableNameOnly=PMIC - Voltage Regulators - DC DC Switching Regulators|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap181]
+Options=FieldName=PMIC - Voltage Regulators - Linear.Part Number|TableNameOnly=PMIC - Voltage Regulators - Linear|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap182]
+Options=FieldName=PMIC - Voltage Regulators - Linear.Library Path|TableNameOnly=PMIC - Voltage Regulators - Linear|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap183]
+Options=FieldName=PMIC - Voltage Regulators - Linear.Library Ref|TableNameOnly=PMIC - Voltage Regulators - Linear|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap184]
+Options=FieldName=PMIC - Voltage Regulators - Linear.Footprint Path|TableNameOnly=PMIC - Voltage Regulators - Linear|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap185]
+Options=FieldName=PMIC - Voltage Regulators - Linear.Footprint Ref|TableNameOnly=PMIC - Voltage Regulators - Linear|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap186]
+Options=FieldName=PMIC - Voltage Regulators - Linear.Description|TableNameOnly=PMIC - Voltage Regulators - Linear|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap187]
+Options=FieldName=PMIC - Voltage Regulators - Linear.Kimlik|TableNameOnly=PMIC - Voltage Regulators - Linear|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap188]
+Options=FieldName=Pressure Sensors, Transducers.Kimlik|TableNameOnly=Pressure Sensors, Transducers|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap189]
+Options=FieldName=Pressure Sensors, Transducers.Part Number|TableNameOnly=Pressure Sensors, Transducers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap190]
+Options=FieldName=Pressure Sensors, Transducers.Library Path|TableNameOnly=Pressure Sensors, Transducers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap191]
+Options=FieldName=Pressure Sensors, Transducers.Library Ref|TableNameOnly=Pressure Sensors, Transducers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap192]
+Options=FieldName=Pressure Sensors, Transducers.Footprint Path|TableNameOnly=Pressure Sensors, Transducers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap193]
+Options=FieldName=Pressure Sensors, Transducers.Footprint Ref|TableNameOnly=Pressure Sensors, Transducers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap194]
+Options=FieldName=Pressure Sensors, Transducers.Description|TableNameOnly=Pressure Sensors, Transducers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap195]
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Kimlik|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap196]
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Part Number|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap197]
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap198]
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Library Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap199]
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Path|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap200]
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Footprint Ref|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap201]
+Options=FieldName=Rectangular Connectors - Headers, Male Pins.Description|TableNameOnly=Rectangular Connectors - Headers, Male Pins|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap202]
+Options=FieldName=Resistor Networks, Arrays.Kimlik|TableNameOnly=Resistor Networks, Arrays|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap203]
+Options=FieldName=Resistor Networks, Arrays.Part Number|TableNameOnly=Resistor Networks, Arrays|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap204]
+Options=FieldName=Resistor Networks, Arrays.Library Path|TableNameOnly=Resistor Networks, Arrays|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap205]
+Options=FieldName=Resistor Networks, Arrays.Library Ref|TableNameOnly=Resistor Networks, Arrays|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap206]
+Options=FieldName=Resistor Networks, Arrays.Footprint Path|TableNameOnly=Resistor Networks, Arrays|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap207]
+Options=FieldName=Resistor Networks, Arrays.Footprint Ref|TableNameOnly=Resistor Networks, Arrays|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap208]
+Options=FieldName=Resistor Networks, Arrays.Description|TableNameOnly=Resistor Networks, Arrays|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap209]
+Options=FieldName=Tactile Switches.Kimlik|TableNameOnly=Tactile Switches|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap210]
+Options=FieldName=Tactile Switches.Part Number|TableNameOnly=Tactile Switches|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap211]
+Options=FieldName=Tactile Switches.Library Path|TableNameOnly=Tactile Switches|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap212]
+Options=FieldName=Tactile Switches.Library Ref|TableNameOnly=Tactile Switches|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap213]
+Options=FieldName=Tactile Switches.Footprint Path|TableNameOnly=Tactile Switches|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap214]
+Options=FieldName=Tactile Switches.Footprint Ref|TableNameOnly=Tactile Switches|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap215]
+Options=FieldName=Tactile Switches.Description|TableNameOnly=Tactile Switches|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap216]
+Options=FieldName=Tantalum Capacitors.Part Number|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap217]
+Options=FieldName=Tantalum Capacitors.Library Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap218]
+Options=FieldName=Tantalum Capacitors.Library Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap219]
+Options=FieldName=Tantalum Capacitors.Footprint Path|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap220]
+Options=FieldName=Tantalum Capacitors.Footprint Ref|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap221]
+Options=FieldName=Tantalum Capacitors.Description|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap222]
+Options=FieldName=Tantalum Capacitors.Capacitance|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap223]
+Options=FieldName=Tantalum Capacitors.Kimlik|TableNameOnly=Tantalum Capacitors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap224]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Kimlik|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap225]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Part Number|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap226]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Library Path|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap227]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Library Ref|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap228]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Footprint Path|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap229]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Footprint Ref|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap230]
+Options=FieldName=Terminal Blocks - Headers, Plugs and Sockets.Description|TableNameOnly=Terminal Blocks - Headers, Plugs and Sockets|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap231]
+Options=FieldName=Test Points.Kimlik|TableNameOnly=Test Points|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap232]
+Options=FieldName=Test Points.Part Number|TableNameOnly=Test Points|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap233]
+Options=FieldName=Test Points.Library Path|TableNameOnly=Test Points|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap234]
+Options=FieldName=Test Points.Library Ref|TableNameOnly=Test Points|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap235]
+Options=FieldName=Test Points.Footprint Path|TableNameOnly=Test Points|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap236]
+Options=FieldName=Test Points.Footprint Ref|TableNameOnly=Test Points|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap237]
+Options=FieldName=Test Points.Description|TableNameOnly=Test Points|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap238]
+Options=FieldName=Through Hole Resistors.Kimlik|TableNameOnly=Through Hole Resistors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap239]
+Options=FieldName=Through Hole Resistors.Part Number|TableNameOnly=Through Hole Resistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap240]
+Options=FieldName=Through Hole Resistors.Library Path|TableNameOnly=Through Hole Resistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap241]
+Options=FieldName=Through Hole Resistors.Library Ref|TableNameOnly=Through Hole Resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap242]
+Options=FieldName=Through Hole Resistors.Footprint Path|TableNameOnly=Through Hole Resistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap243]
+Options=FieldName=Through Hole Resistors.Footprint Ref|TableNameOnly=Through Hole Resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap244]
+Options=FieldName=Through Hole Resistors.Description|TableNameOnly=Through Hole Resistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap245]
+Options=FieldName=Transistors - FETs, MOSFETs - Single.Part Number|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap246]
+Options=FieldName=Transistors - FETs, MOSFETs - Single.Library Path|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap247]
+Options=FieldName=Transistors - FETs, MOSFETs - Single.Library Ref|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap248]
+Options=FieldName=Transistors - FETs, MOSFETs - Single.Footprint Path|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap249]
+Options=FieldName=Transistors - FETs, MOSFETs - Single.Footprint Ref|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap250]
+Options=FieldName=Transistors - FETs, MOSFETs - Single.Description|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap251]
+Options=FieldName=Transistors - FETs, MOSFETs - Single.Kimlik|TableNameOnly=Transistors - FETs, MOSFETs - Single|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap252]
+Options=FieldName=Trimmer Potentiometers.Part Number|TableNameOnly=Trimmer Potentiometers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap253]
+Options=FieldName=Trimmer Potentiometers.Library Path|TableNameOnly=Trimmer Potentiometers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap254]
+Options=FieldName=Trimmer Potentiometers.Library Ref|TableNameOnly=Trimmer Potentiometers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap255]
+Options=FieldName=Trimmer Potentiometers.Footprint Path|TableNameOnly=Trimmer Potentiometers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap256]
+Options=FieldName=Trimmer Potentiometers.Footprint Ref|TableNameOnly=Trimmer Potentiometers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap257]
+Options=FieldName=Trimmer Potentiometers.Description|TableNameOnly=Trimmer Potentiometers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap258]
+Options=FieldName=Trimmer Potentiometers.Kimlik|TableNameOnly=Trimmer Potentiometers|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap259]
+Options=FieldName=USB, DVI, HDMI Connectors.Part Number|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap260]
+Options=FieldName=USB, DVI, HDMI Connectors.Library Path|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap261]
+Options=FieldName=USB, DVI, HDMI Connectors.Library Ref|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap262]
+Options=FieldName=USB, DVI, HDMI Connectors.Footprint Path|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap263]
+Options=FieldName=USB, DVI, HDMI Connectors.Footprint Ref|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap264]
+Options=FieldName=USB, DVI, HDMI Connectors.Description|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap265]
 Options=FieldName=USB, DVI, HDMI Connectors.Kimlik|TableNameOnly=USB, DVI, HDMI Connectors|FieldNameOnly=Kimlik|FieldType=1|ParameterName=Kimlik|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
