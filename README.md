@@ -21,7 +21,7 @@ You can watch the video below for the promotion of the library. There are clonin
 <div align="center">
       <a href="https://www.youtube.com/watch?v=NXpreIu4Dqs">
       <img 
-      src="https://img.youtube.com/vi/NXpreIu4Dqs/0.jpg" 
+      src="https://yt-embed.herokuapp.com/embed?v=NXpreIu4Dqs" 
       alt="Altium Designer Açık Kaynak Kütüphane Tanıtımı" 
       style="width:80%;">
       </a>
