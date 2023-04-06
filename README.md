@@ -5,7 +5,7 @@ If you want a special component added to the library or if you want to develop t
 
 ## How To Use This Library
 
-Thanks to dataBase library method, the library can be imported to Altium Designer very simple.
+Thanks to dataBase library method, you can import this library into your Altium Designer by following the 5 simple steps given below.
 
 1. Clone the repository to your computer. <br />
    "git clone https://github.com/mehmetalikucuk/Altium_Designer_Library.git"
@@ -16,7 +16,7 @@ Thanks to dataBase library method, the library can be imported to Altium Designe
 
 ## Promotional Video of The Library (in Turkish)
 
-You can watch the video below for the promotion of the library. There are cloning the repository and installation of library steps in this video.
+You can watch the video below for the promotion of the library. This video includes the cloning steps of the repository and installation steps of the library.
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=NXpreIu4Dqs">
